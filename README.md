@@ -1,1 +1,3 @@
 # newords
+
+discovery new words

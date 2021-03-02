@@ -23,6 +23,7 @@ wheels/
 pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
+src/*.egg-info/
 .installed.cfg
 *.egg
 MANIFEST
@@ -127,3 +128,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/
